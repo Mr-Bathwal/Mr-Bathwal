@@ -45,6 +45,10 @@
 
 ---
 
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+
 ##  Beyond Code  
 -  **Sports Secretary @ IIT Hyderabad** – Led events with 300+ participants, logistics, and deadlines.
 -  **Marketing Manager @ IIT Hyderabad E-cell ** - Led flagship events ~ E-Summit , E-merge .  
