@@ -46,7 +46,8 @@
 ---
 
 ##  Beyond Code  
--  **Sports Secretary @ IIT Hyderabad** – Led events with 300+ participants, logistics, and deadlines.  
+-  **Sports Secretary @ IIT Hyderabad** – Led events with 300+ participants, logistics, and deadlines.
+-  **Marketing Manager @ IIT Hyderabad E-cell ** - Led flagship events ~ E-Summit , E-merge .  
 -  Solved **500+ algorithmic problems** on LeetCode and Codeforces.
 
 ---
