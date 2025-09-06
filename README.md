@@ -2,7 +2,11 @@
 
 <div align="center">
   <img src="https://img.icons8.com/emoji/96/mouse-emoji.png" width="60px"/>
-  <p><b>💬 Hey, welcome! I’m Gourav 👨‍💻</b></p>
+  <p><b>🐭 My little friend says:</b></p>
+  <audio controls>
+    <source src="https://ttsmp3.com/created_mp3/2023-voice-gourav.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
 </div>
 
 <p align="center">
@@ -31,6 +35,7 @@
 
 | Project | Tech | Preview |
 |---------|------|---------|
+| **Identity-dApp** – Blockchain identity verification with ZKP | Solidity, React, ZK-SNARKs | ![Identity](https://img.icons8.com/color/96/fingerprint.png) |
 | **TicketVerse** – NFT ticketing marketplace | Solidity, React, RainbowKit | ![TicketVerse](https://img.icons8.com/fluency/96/ticket.png) |
 | **codeHUB** – Online Judge Platform | Node.js, React, MongoDB | ![CodeHub](https://img.icons8.com/color/96/source-code.png) |
 | **Super Calculator** – PWA Calculator | React, MathJS | ![Calculator](https://img.icons8.com/fluency/96/calculator.png) |
@@ -69,8 +74,8 @@
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/Mr-Bathwal/Mr-Bathwal/output/github-contribution-grid-snake-dark.svg)
+## 🐍 Contribution Snake (LIVE inside grid)
+![GitHub Snake](https://github.com/Mr-Bathwal/Mr-Bathwal/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
