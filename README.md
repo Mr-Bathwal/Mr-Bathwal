@@ -1,6 +1,6 @@
 <!-- Techy Typing Animation Heading (no background) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=56&pause=1000&color=16F7FF&center=true&vCenter=true&width=900&lines=Hi+I+am+Gourav+Kumar" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=56&pause=1000&color=16F7FF&center=true&vCenter=true&width=900&lines=Hi+I+am+Gourav" alt="Typing animation" />
 </p>
 
 <h3 align="center" style="font-size:24px">A passionate developer from India 🇮🇳</h3>
