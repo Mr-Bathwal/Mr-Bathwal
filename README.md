@@ -34,25 +34,15 @@
 
 ## 🚀 Projects
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" alt="JS Icon"/> [CodeHub](https://github.com/Mr-Bathwal/CodeHub)  
-Online Judge and Compiler. Efficient judges, persistent code history, and multi-language support.
+|         | Project & Link     | Description                                                    |
+|:-------:|:------------------|:---------------------------------------------------------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/> | [CodeHub](https://github.com/Mr-Bathwal/CodeHub) | Online Judge and Compiler. Efficient judges, persistent code history, and multi-language support. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/> | [currency-converter](https://github.com/Mr-Bathwal/currency-converter) | Real-Time Currency Converter with live FX data and PWA features. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/> | [Super-Calculator](https://github.com/Mr-Bathwal/Super-Calculator) | Advanced calculator SPA for math and engineering problems. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36"/> | [myProjects](https://github.com/Mr-Bathwal/myProjects) | Personal project launchpad for experimentation. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36"/> | [localRepo](https://github.com/Mr-Bathwal/localRepo) | Static sites and tech demos for rapid prototyping. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/> | [OJ](https://github.com/Mr-Bathwal/OJ) | Simple online judge with core algorithm testing. |
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" alt="JS Icon"/> [currency-converter](https://github.com/Mr-Bathwal/currency-converter)  
-Real-Time Currency Converter with live FX data and PWA features.
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" alt="JS Icon"/> [Super-Calculator](https://github.com/Mr-Bathwal/Super-Calculator)  
-Advanced calculator SPA for math and engineering problems.
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" alt="HTML Icon"/> [myProjects](https://github.com/Mr-Bathwal/myProjects)  
-Personal project launchpad for experimentation.
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" alt="HTML Icon"/> [localRepo](https://github.com/Mr-Bathwal/localRepo)  
-Static sites and tech demos for rapid prototyping.
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" alt="JS Icon"/> [OJ](https://github.com/Mr-Bathwal/OJ)  
-Simple online judge with core algorithm testing.
-
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
