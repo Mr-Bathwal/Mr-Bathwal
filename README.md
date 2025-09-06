@@ -1,77 +1,63 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900" height="300" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=35&pause=1000&color=FF5733&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I+am+Gourav+Kumar+Bathwal+🇮🇳;Aspiring+Software+Development+Engineer;Blockchain+%7C+AI+%7C+Full+Stack+Developer;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Gourav Kumar Bathwal</h1>
+<h3 align="center">A passionate developer from India 🇮🇳</h3>
 
 ---
 
-## 🚀 About Me
-- 🎓 3rd-year Bioinformatics @ IIT Hyderabad  
-- 💡 Exploring Blockchain (Identity dApp, ZKP) + Full Stack Development  
-- 🧠 Keen on solving DSA + Competitive Programming problems  
-- 🌍 Passionate about technology with real-world impact  
+## 🌟 About Me
+- 🔭 Currently working on **Blockchain Identity Verification DApp**  
+- 🌱 Exploring **Advanced DSA, Web3, and System Design**  
+- 💬 Ask me about **React, Node.js, C++, Blockchain, and Problem Solving**  
+- ✨ I love blending **technology + creativity** to build impactful solutions  
+- ⚡ Fun fact: *I debug faster at midnight 🌙 with a cup of chai ☕*
 
 ---
 
-## 📬 Connect With Me
-- 📧 Email: **[bt23btech11008@iith.ac.in](mailto:bt23btech11008@iith.ac.in)**  
-- 📷 Instagram: [@gouravbathwal](https://www.instagram.com/gouravbathwal/)  
-- 💼 LinkedIn: [Gourav Kumar Bathwal](https://www.linkedin.com/in/gourav-kumar-bathwal-16057430a/)  
-
----
-
-## 🛠️ Tech Stack
-- 💻 Languages: **C++, JavaScript, Python**  
-- 🌐 Web: **React, Node.js, Express, MongoDB**  
-- 🔗 Blockchain: **Solidity, Web3.js, ZKP (Zero Knowledge Proofs)**  
-- ⚡ Tools: **Git, Docker, Linux, Firebase**  
-
----
-
-## 🏆 Projects
-### 🔹 Identity Verification dApp
-<p align="center">
-  <img src="https://i.ibb.co/Gd4vS6T/identity-dapp.png" width="600"/>
-</p>
-Decentralized identity verification using Aadhaar QR + ZKP for privacy.
-
----
-
-### 🔹 MRI Renal Cancer Classification
-<p align="center">
-  <img src="https://i.ibb.co/7jKfQmP/mri-project.png" width="600"/>
-</p>
-Tumor segmentation, feature extraction, ML model for tumor stage prediction.
-
----
-
-### 🔹 E-Commerce Invoice Clone
-<p align="center">
-  <img src="https://i.ibb.co/6mw4g6D/amazon-invoice.png" width="600"/>
-</p>
-Amazon-style invoice generator built with React.
-
----
-
-## 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gouravbathwal&show_icons=true&theme=radical" width="450"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravbathwal&layout=compact&theme=radical" width="350"/>
+## 🌐 Connect with me
+<p align="left">
+<a href="mailto:gouravbathwal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/gouravbathwal/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🐍 Contribution Graph with Snake
+## ⚡ Tech Stack
 <p align="center">
-  <img src="https://github.com/gouravbathwal/gouravbathwal/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,mongodb,solidity,html,css,git,github,vscode,figma&perline=7"/>
 </p>
 
 ---
 
-## 👀 Visitor Count
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gouravbathwal&label=Profile%20Views&color=blue&style=for-the-badge" alt="visitor badge"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Bathwal&show_icons=true&theme=radical" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Bathwal&theme=radical" alt="streak" height="160"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mr-Bathwal&theme=onedark&column=6&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+## 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Bathwal&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Snake Eating My Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mr-Bathwal/Mr-Bathwal/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+---
+
+## 📈 Visitor Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Mr-Bathwal}/count.svg" />
 </p>
