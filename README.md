@@ -20,12 +20,12 @@
 | Tech Stack | Project & Link | Description | Project Icon |
 |:----------:|:---------------|:------------|:------------:|
 | [![Solidity](https://skillicons.dev/icons?i=solidity)](https://github.com/Mr-Bathwal/identity-dapp) | [**Identity Verification dApp**](https://github.com/Mr-Bathwal/identity-dapp) | Decentralized identity verification platform using blockchain and Zero-Knowledge Proofs. | <img src="https://cdn-icons-png.flaticon.com/512/3062/3062634.png" width="32" alt="Fingerprint Icon"/> |
-| [![Avalanche](https://skillicons.dev/icons?i=avalanche)](https://github.com/Mr-Bathwal/hackathon) | [**TicketVerse**](https://github.com/Mr-Bathwal/hackathon) | NFT-based ticketing marketplace built on the Avalanche chain for secure event access. | <img src="https://cdn-icons-png.flaticon.com/512/786/786432.png" width="32" alt="Ticket Icon"/> |
+| [![Avalanche](https://skillicons.dev/icons?i=avalanche)](https://github.com/Mr-Bathwal/hackathon) | [**TicketVerse**](https://github.com/Mr-Bathwal/hackathon) | NFT-based ticketing marketplace built on the Avalanche chain for secure event access. | <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Font_Awesome_5_regular_ticket-alt.svg" width="32" alt="Ticket Icon"/> |
 | [![Node.js](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://github.com/Mr-Bathwal/CodeHub) | [**CodeHub**](https://github.com/Mr-Bathwal/CodeHub) | Online judge & compiler with multi-language support and state persistence. | <img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="32" alt="Terminal Icon"/> |
 | [![React](https://skillicons.dev/icons?i=react,js)](https://github.com/Mr-Bathwal/Super-Calculator) | [**Super-Calculator**](https://github.com/Mr-Bathwal/Super-Calculator) | Advanced calculator SPA for complex math and engineering problems. | <img src="https://cdn-icons-png.flaticon.com/512/2452/2452650.png" width="32" alt="Calculator Icon"/> |
-| [![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/Mr-Bathwal/currency-converter) | [**currency-converter**](https://github.com/Mr-Bathwal/currency-converter) | Real-time currency converter with live FX data and PWA features. | <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="32" alt="Currency Icon"/> |
+| [![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/Mr-Bathwal/currency-converter) | [**currency-converter**](https://github.com/Mr-Bathwal/currency-converter) | Real-time currency converter with live FX data and PWA features. | <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="32" alt="Dollar Icon"/> |
 
----
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
