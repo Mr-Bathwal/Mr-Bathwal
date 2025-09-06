@@ -1,79 +1,75 @@
-<h1 align="center" style="font-size:4rem; font-weight:900; background:linear-gradient(270deg, #38bdf8, #f43f5e, #9333ea, #38bdf8); background-size:1000% 1000%; animation: gradientAnimation 20s ease infinite; -webkit-background-clip: text; color: transparent; user-select:none; margin-bottom: 10px;">
-  Hi, I’m <span style="color:#f43f5e;">Gourav Kumar Bathwal</span> 👋
-</h1>
-
-<p align="center" style="font-style:italic; font-weight:600; font-size:1.3rem; color:#a1a1aa; margin-top:-5px; margin-bottom:40px;">
-  B.Tech in Biotechnology & Bioinformatics @ IIT Hyderabad <br/>
-  Full-Stack Developer | UI/UX Enthusiast | Problem Solver <br/>
-  SWE Co-op @ AlgoUniversity | Hackathon Builder
+<h1 align="center">⚡ Hey, I’m <span style="color:#38bdf8;">Gourav Kumar Bathwal</span> 👋</h1>
+<p align="center">
+  <em>B.Tech in Biotechnology & Bioinformatics @ IIT Hyderabad</em><br/>
+  <em>🚀 Full-Stack Developer | 🎨 UI/UX Enthusiast | 🧩 Problem Solver</em><br/>
+  <em>💻 SWE Co-op @ AlgoUniversity | 🏆 Hackathon Builder</em>
 </p>
 
-<div align="center" style="width:100%; max-width:900px; margin:auto; position:relative; overflow:hidden; border-radius:20px; box-shadow: 0 15px 40px rgb(131 58 180 / 0.8); background:#111827;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Indian_Parliament_New_Delhi_03-2016_img3.jpg/640px-Indian_Parliament_New_Delhi_03-2016_img3.jpg"  
-    alt="Indian Parliament" style="width:100%; opacity:0.15; position:absolute; inset:0; object-fit:cover; border-radius:20px;"/>
-  <div style="position:relative; padding: 25px 40px; color:#e0e7ff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; z-index:10;">
-    <h2 style="text-align:center; font-size:2.8rem; font-weight:800; background: linear-gradient(90deg, #4ade80, #22d3ee); -webkit-background-clip: text; color: transparent; user-select:none; margin-bottom:25px;">
-      Highlights
-    </h2>
-    <ul style="font-size:1.3rem; list-style: none; padding-left:0; max-width:700px; margin:auto; line-height:1.7;">
-      <li style="margin-bottom:18px;">🎓 <b>AlgoUniversity SWE Co-op</b>: Selected via a three-stage process. Full-stack development & DSA + system design under startup pressure.</li>
-      <li style="margin-bottom:18px;">🚀 <b>TicketVerse</b>: NFT ticketing marketplace at Avalanche Draper Startup House Hackathon.<br/> Stack: Solidity, React, Ethers, RainbowKit, Pinata.</li>
-      <li style="margin-bottom:18px;">💻 <b>codeHUB</b>: End-to-end online judge with Node.js backend and React frontend.</li>
-      <li style="margin-bottom:18px;">🎨 UI/UX Projects: Scientific Calculator PWA & Currency Converter with smooth micro-interactions.</li>
-    </ul>
-  </div>
+---
+
+## 🌟 Highlights
+<img align="right" alt="Coding GIF" height="160" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+
+- 🔥 **AlgoUniversity SWE Co-op** – Selected through a rigorous 3-stage process. Building scalable full-stack features + solving DSA & system design in startup-style sprints.  
+- 🎫 **TicketVerse** – NFT ticketing marketplace built at Avalanche Draper Startup House Hackathon.  
+  🔧 *Stack:* Solidity | React | Ethers | RainbowKit | Pinata  
+- 👨‍💻 **codeHUB** – End-to-end online judge platform:  
+  - Backend: Node.js + Express | JWT | MongoDB Atlas  
+  - Frontend: React + Vite SPA | Role-based flows  
+  - DevOps: CI/CD on Render | live-log debugging  
+- 🎨 **UI/UX Projects** –  
+  - Scientific Calculator PWA (React + MathJS; mobile-first + accessible)  
+  - Currency Converter (real-time APIs + smooth micro-interactions)  
+
+---
+
+## 💻 Tech Stack
+<div align="center">
+
+![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=000&color=f7df1e)
+![TS](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=007ACC&labelColor=000&color=007ACC)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000&color=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=000&color=646CFF)
+![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=000&color=339933)
+![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=fff&labelColor=000&color=fff)  
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=4EA94B&labelColor=000&color=4EA94B)
+![Solidity](https://img.shields.io/badge/Solidity-000?style=for-the-badge&logo=solidity&logoColor=fff&labelColor=000&color=363636)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38b2ac&labelColor=000&color=38b2ac)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff&labelColor=000&color=181717)
+
 </div>
 
-<p style="text-align:center; margin:30px auto 10px; font-weight:700; font-family: 'Courier New', Courier, monospace; font-size:20px; color:#bb86fc;">
-  Tech Stack & Badges
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Bathwal&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Bathwal&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Bathwal&layout=compact&theme=radical" height="160"/>
+</div>
+
+---
+
+## 🎯 Beyond Code
+<img align="right" alt="Sports GIF" height="140" src="https://media.giphy.com/media/26xBukhM8m5X92nUI/giphy.gif"/>
+
+- ⚽ **Sports Secretary @ IIT Hyderabad** – Led 300+ participant events with logistics + deadlines.  
+- 📈 **Marketing Manager @ E-cell IITH** – Managed flagship events: E-Summit & E-Merge.  
+- 🧠 Solved **500+ algorithmic problems** on LeetCode + Codeforces.  
+
+---
+
+## 📫 Let’s Connect!
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-kumar-bathwal-16057430a/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-Bathwal)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@domain.com)
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mr-Bathwal&color=ff69b4&style=for-the-badge" alt="Profile views"/>
 </p>
-<div align="center" style="margin-bottom:40px;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" style="margin:6px; border-radius:12px; transform: rotate(-2deg) scale(1.05); transition: all 0.3s ease;" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" style="margin:6px; border-radius:12px; transform: rotate(3deg) scale(1.05); transition: all 0.3s ease;" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" style="margin:6px; border-radius:12px; transform: rotate(-1deg) scale(1.05); transition: all 0.3s ease;" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite" style="margin:6px; border-radius:12px; transform: rotate(2deg) scale(1.05); transition: all 0.3s ease;" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="NodeJS" style="margin:6px; border-radius:12px; transform: rotate(-3deg) scale(1.05); transition: all 0.3s ease;" />
-</div>
-
-<div style="background:#1f2937; padding: 14px 20px; margin-bottom: 20px; border-radius: 18px; color:#cbd5e1; max-width: 800px; margin-left:auto; margin-right:auto; font-family:'Courier New', monospace;">
-  <h3 style="color:#4ade80; font-weight:700; margin-bottom:8px;">Daily Activity 🐍</h3>
-  <svg viewBox="0 0 200 40" width="100%" height="60" fill="none" style="background:#374151; border-radius: 12px; overflow: visible;">
-    <path id="snakePath" d="M0,20 Q40,5 80,20 T160,20 T200,20" stroke="#34d399" stroke-width="6" stroke-linecap="round" />
-    <circle r="8" fill="#10b981" stroke="#059669" stroke-width="2">
-      <animateMotion dur="8s" repeatCount="indefinite" rotate="auto">
-        <mpath href="#snakePath"/>
-      </animateMotion>
-    </circle>
-    <circle r="6" fill="#059669" stroke="#047857" stroke-width="2" style="opacity:0.7;">
-      <animateMotion dur="8s" begin="4s" repeatCount="indefinite" rotate="auto">
-        <mpath href="#snakePath"/>
-      </animateMotion>
-    </circle>
-  </svg>
-  <p style="margin-top:8px; font-size:14px; color:#81e6d9;">
-    Coding, Building Hackathons, Solving Algorithms, UI/UX Designing, and Continuous Learning.
-  </p>
-</div>
-
-<div align="center" style="max-width: 900px; margin: auto; margin-bottom: 40px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Bathwal&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats" style="border-radius: 16px; box-shadow: 0 10px 25px rgb(147 51 234 / 0.6);" />
-</div>
-
-<p align="center" style="font-size:22px; font-weight: 700; color:#fb7185; text-shadow: 1px 1px 5px #58357a; margin-bottom: 20px;">
-  Reach Out to Me
-</p>
-
-<p align="center" style="font-size:18px; color:#d6bcfa; text-shadow: 0 0 4px #a78bfa;">
-  <a href="mailto:bt23btech11008@iith.ac.in" style="color: #a78bfa; font-weight: 600; text-decoration: underline;">
-    bt23btech11008@iith.ac.in
-  </a>
-</p>
-
-<!-- Keyframes - Add this part in a gist or suitable location for README embeds -->
-<style>
-  @keyframes gradientAnimation {
-    0%{background-position:0% 50%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 50%}
-  }
-</style>
