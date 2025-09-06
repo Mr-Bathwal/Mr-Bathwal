@@ -1,4 +1,3 @@
-<!-- Big Techy Animated Heading -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=58&duration=3000&pause=1000&color=16F7FF&background=000000&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Gourav+%F0%9F%91%8B" alt="Techy Animated SVG Heading" />
 </p>
@@ -8,10 +7,10 @@
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on **cutting-edge Blockchain projects** and full-stack platforms
-- 🌱 Exploring **Advanced DSA, Web3, and System Design**
-- 💬 Ask me about **React, Node.js, C++, Blockchain, UI/UX, Problem Solving**
-- ✨ Building creative, impactful tech with real-world utility
+- 🔭 Currently working on **cutting-edge Blockchain projects** and full-stack platforms.
+- 🌱 Exploring **Advanced DSA, Web3, and System Design.**
+- 💬 Ask me about **React, Node.js, C++, Blockchain, UI/UX, Problem Solving.**
+- ✨ Building creative, impactful tech with real-world utility.
 - ⚡ Fun fact: _I debug faster at midnight 🌙 with a cup of chai ☕_
 
 ---
@@ -40,23 +39,23 @@ _Efficient judges, persistent code history, and support for multiple languages._
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/> [currency-converter](https://github.com/Mr-Bathwal/currency-converter)
 Real-Time Currency Converter.  
-_Live FX data, snappy UI, and progressive web app features for instant conversions._
+_Live FX data, snappy UI, and PWA features._
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/> [Super-Calculator](https://github.com/Mr-Bathwal/Super-Calculator)
 Advanced Calculator SPA.  
-_Solve math, algebra, and engineering problems at lightning speed._
+_Math, algebra, and engineering solver._
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/> [myProjects](https://github.com/Mr-Bathwal/myProjects)
-Personal Project Launchpad (HTML).  
+Personal Project Launchpad.  
 _A place to experiment and start new builder ideas._
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/> [localRepo](https://github.com/Mr-Bathwal/localRepo)
-Tech Demos and Static Sites.  
-_Small modules and pure HTML tool listings for rapid prototyping._
+Tech Demos & Static Sites.  
+_Small modules and pure HTML tool listings._
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/> [OJ](https://github.com/Mr-Bathwal/OJ)
 Simple Online Judge (JavaScript demo).  
-_Core logic for algorithm testing and basic code verdicts._
+_Core logic for algorithm testing._
 
 ---
 
@@ -68,10 +67,9 @@ _Core logic for algorithm testing and basic code verdicts._
 ---
 
 ## 🔥 Daily Activity & Snake Animation 🐍
+<!-- This displays the real GitHub contribution blocks with animated snake DIRECTLY crawling on them -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Bathwal&theme=tokyo-night" alt="Daily Contribution Graph" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/Mr-Bathwal/Mr-Bathwal/output/github-contribution-grid-snake.svg" alt="Snake crawling on daily activity blocks"/>
+  <img src="https://raw.githubusercontent.com/Mr-Bathwal/Mr-Bathwal/output/github-contribution-grid-snake.svg" alt="Snake crawling on your actual contribution blocks"/>
 </p>
 
 ---
