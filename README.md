@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&duration=2500&pause=900&color=16BFFD&center=true&vCenter=true&width=700&lines=Hi,+I+am+Gourav+Kumar+Bathwal" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&duration=2500&pause=900&color=16BFFD&center=true&vCenter=true&width=700&lines=Hi,+I+am+Gourav" alt="Typing animation"/>
 </p>
 
 <h3 align="center">A passionate developer from India 🇮🇳</h3>
@@ -15,23 +15,25 @@
 
 ---
 
+---
+
 ## 🚀 Projects
 
-| Project & Link      | Description    | Image |
-|:--------------------|:--------------|:-----:|
-| [Identity Verification dApp](https://github.com/Mr-Bathwal/identity-dapp) | Decentralized identity verification platform using blockchain and Zero-Knowledge Proofs. | http://googleusercontent.com/image_generation_content/0
+| Tech Stack | Description | Project Icon |
+|:----------:|:------------|:------------:|
+| [![Blockchain](https://skillicons.dev/icons?i=solidity)](https://github.com/Mr-Bathwal/identity-dapp) | Decentralized identity verification platform using blockchain and Zero-Knowledge Proofs. | http://googleusercontent.com/image_generation_content/5
 
  |
-| [TicketVerse](https://github.com/Mr-Bathwal/hackathon) | NFT-based ticketing marketplace built on the Avalanche chain, enabling secure event access. | http://googleusercontent.com/image_generation_content/1
+| [![Avalanche](https://skillicons.dev/icons?i=ethereum)](https://github.com/Mr-Bathwal/hackathon) | NFT-based ticketing marketplace built on the Avalanche chain for secure event access. | http://googleusercontent.com/image_generation_content/6
 
  |
-| [CodeHub](https://github.com/Mr-Bathwal/CodeHub) | An online judge and compiler supporting multiple programming languages with state persistence for competitive programming. | http://googleusercontent.com/image_generation_content/2
+| [![Node.js](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://github.com/Mr-Bathwal/CodeHub) | Online judge & compiler with multi-language support and state persistence. | http://googleusercontent.com/image_generation_content/7
 
  |
-| [Super-Calculator](https://github.com/Mr-Bathwal/Super-Calculator) | An advanced Single Page Application calculator designed for complex mathematical and engineering problems. | http://googleusercontent.com/image_generation_content/3
+| [![React](https://skillicons.dev/icons?i=react,js)](https://github.com/Mr-Bathwal/Super-Calculator) | Advanced calculator SPA for complex math and engineering problems. | http://googleusercontent.com/image_generation_content/8
 
  |
-| [currency-converter](https://github.com/Mr-Bathwal/currency-converter) | A real-time currency converter utilizing live exchange rate data and Progressive Web App (PWA) features. | http://googleusercontent.com/image_generation_content/4
+| [![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/Mr-Bathwal/currency-converter) | Real-time currency converter with live FX data and PWA features. | http://googleusercontent.com/image_generation_content/9
 
  |
 
