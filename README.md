@@ -74,10 +74,9 @@
 
 ---
 
-## 🐍 Contribution Snake (LIVE inside grid)
-![GitHub Snake](https://github.com/Mr-Bathwal/Mr-Bathwal/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Mr-Bathwal/Mr-Bathwal/blob/output/dist/snake.svg)
 
----
 
 ## 🚀 Beyond Code
 
