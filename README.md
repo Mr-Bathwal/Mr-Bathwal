@@ -36,12 +36,26 @@
 
 |         | Project & Link     | Description                                                    |
 |:-------:|:------------------|:---------------------------------------------------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/> | [CodeHub](https://github.com/Mr-Bathwal/CodeHub) | Online Judge and Compiler. Efficient judges, persistent code history, and multi-language support. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/> | [currency-converter](https://github.com/Mr-Bathwal/currency-converter) | Real-Time Currency Converter with live FX data and PWA features. |
+| <img src="https://i.ibb.co/Gd4vS6T/identity-dapp.png" width="36"/> | **Identity Verification dApp** | Decentralized identity verification using Aadhaar QR and ZKP privacy. |
+| <img src="https://i.ibb.co/yVfJjP2/ticketverse.png" width="36"/> | **TicketVerse** | NFT ticketing marketplace built at the Avalanche Draper Startup House Hackathon. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/> | [CodeHub](https://github.com/Mr-Bathwal/CodeHub) | Online Judge and Compiler. Efficient judges, persistent code history, multi-language support. |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/> | [Super-Calculator](https://github.com/Mr-Bathwal/Super-Calculator) | Advanced calculator SPA for math and engineering problems. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36"/> | [myProjects](https://github.com/Mr-Bathwal/myProjects) | Personal project launchpad for experimentation. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36"/> | [localRepo](https://github.com/Mr-Bathwal/localRepo) | Static sites and tech demos for rapid prototyping. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/> | [OJ](https://github.com/Mr-Bathwal/OJ) | Simple online judge with core algorithm testing. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/> | [currency-converter](https://github.com/Mr-Bathwal/currency-converter) | Real-Time Currency Converter with live FX data and PWA features. |
+
+---
+
+## 🖼️ Relevant Images
+
+<p align="center">
+  <img src="https://i.ibb.co/Gd4vS6T/identity-dapp.png" width="260" alt="Identity Verification dApp"/>
+  &nbsp;
+  <img src="https://i.ibb.co/yVfJjP2/ticketverse.png" width="260" alt="TicketVerse"/>
+  &nbsp;
+  <img src="https://i.ibb.co/6mw4g6D/amazon-invoice.png" width="220" alt="E-Commerce Invoice (Calculator Demo)"/>
+  &nbsp;
+  <img src="https://i.ibb.co/7jKfQmP/mri-project.png" width="180" alt="Extra ML Demo"/>
+</p>
+
 
 
 ## 🏆 GitHub Trophies
