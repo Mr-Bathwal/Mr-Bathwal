@@ -1,17 +1,17 @@
-<!-- Typing tech banner: always visible, always crisp -->
+<!-- Big Techy Animated Heading -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=48&pause=1000&width=700&color=48B4E7&center=true&vCenter=true&lines=Hi,+I+am+Gourav" alt="Typing Tech Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=58&duration=3000&pause=1000&color=16F7FF&background=000000&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Gourav+%F0%9F%91%8B" alt="Techy Animated SVG Heading" />
 </p>
 
-<h3 align="center">A passionate developer from India 🇮🇳</h3>
+<h3 align="center" style="font-size:24px">A passionate developer from India 🇮🇳</h3>
 
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on **Blockchain Identity Verification DApp**
+- 🔭 Currently working on **cutting-edge Blockchain projects** and full-stack platforms
 - 🌱 Exploring **Advanced DSA, Web3, and System Design**
-- 💬 Ask me about **React, Node.js, C++, Blockchain, and Problem Solving**
-- ✨ I love blending **technology + creativity** to build impactful solutions
+- 💬 Ask me about **React, Node.js, C++, Blockchain, UI/UX, Problem Solving**
+- ✨ Building creative, impactful tech with real-world utility
 - ⚡ Fun fact: _I debug faster at midnight 🌙 with a cup of chai ☕_
 
 ---
@@ -27,30 +27,36 @@
 
 ## ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,mongodb,solidity,html,css,git,github,vscode,figma&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,mongodb,html,css,git,github,vscode,figma&perline=7"/>
 </p>
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 Identity Verification dApp
-<p align="center">
-  <img src="https://i.ibb.co/Gd4vS6T/identity-dapp.png" width="480"/>
-</p>
-Decentralized, Aadhaar-integrated dApp using ZKP for privacy and blockchain security.
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/> [CodeHub](https://github.com/Mr-Bathwal/CodeHub)
+Online Judge and Compiler.  
+_Efficient judges, persistent code history, and support for multiple languages._
 
-### 🔹 MRI Renal Cancer Classification
-<p align="center">
-  <img src="https://i.ibb.co/7jKfQmP/mri-project.png" width="480"/>
-</p>
-ML-powered tumor segmentation and stage prediction pipeline for medical imaging.
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/> [currency-converter](https://github.com/Mr-Bathwal/currency-converter)
+Real-Time Currency Converter.  
+_Live FX data, snappy UI, and progressive web app features for instant conversions._
 
-### 🔹 E-Commerce Invoice Clone
-<p align="center">
-  <img src="https://i.ibb.co/6mw4g6D/amazon-invoice.png" width="480"/>
-</p>
-Amazon-style invoice generator built with React.
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/> [Super-Calculator](https://github.com/Mr-Bathwal/Super-Calculator)
+Advanced Calculator SPA.  
+_Solve math, algebra, and engineering problems at lightning speed._
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/> [myProjects](https://github.com/Mr-Bathwal/myProjects)
+Personal Project Launchpad (HTML).  
+_A place to experiment and start new builder ideas._
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/> [localRepo](https://github.com/Mr-Bathwal/localRepo)
+Tech Demos and Static Sites.  
+_Small modules and pure HTML tool listings for rapid prototyping._
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/> [OJ](https://github.com/Mr-Bathwal/OJ)
+Simple Online Judge (JavaScript demo).  
+_Core logic for algorithm testing and basic code verdicts._
 
 ---
 
@@ -63,7 +69,9 @@ Amazon-style invoice generator built with React.
 
 ## 🔥 Daily Activity & Snake Animation 🐍
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mr-Bathwal/Mr-Bathwal/output/github-contribution-grid-snake.svg" alt="Snake crawling on green contribution blocks"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Bathwal&theme=tokyo-night" alt="Daily Contribution Graph" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Mr-Bathwal/Mr-Bathwal/output/github-contribution-grid-snake.svg" alt="Snake crawling on daily activity blocks"/>
 </p>
 
 ---
