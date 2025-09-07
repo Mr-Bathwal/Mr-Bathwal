@@ -6,6 +6,15 @@
 
 ---
 
+## 🌟 About Me
+- 🔭 Currently working on Blockchain & Identity projects
+- 🌱 Exploring Advanced DSA, Web3, and System Design
+- 💬 Open to discussing React, Node.js, C++, Blockchain & Problem Solving
+- ✨ Love to blend technology with creativity
+- ⚡ Fun fact: I debug faster at midnight with a cup of chai ☕
+
+---
+
 ## ⚡ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,mongodb,solidity,html,css,git,github,vscode,figma&perline=7" />
