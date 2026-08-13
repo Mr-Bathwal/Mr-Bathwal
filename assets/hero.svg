@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-label="Gourav Kumar Bathwal — Software Developer and UI/UX Enthusiast">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="28%" r="90%">
+      <stop offset="0%" stop-color="#1b1d3e"/>
+      <stop offset="55%" stop-color="#111328"/>
+      <stop offset="100%" stop-color="#0b0c1a"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#b8a6ff"/>
+      <stop offset="42%" stop-color="#f6a8d8"/>
+      <stop offset="78%" stop-color="#8fe9dc"/>
+      <stop offset="100%" stop-color="#b8a6ff"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.25 0; 0.25 0; -0.25 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#b8a6ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#f6a8d8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#8fe9dc" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="70"/>
+    </filter>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="1.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="round"><rect width="1200" height="320" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+
+    <!-- Aurora light, softly drifting -->
+    <g opacity="0.55">
+      <g><ellipse cx="300" cy="120" rx="260" ry="150" fill="#7b5cff" filter="url(#soft)"/>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 60 30; -20 -10; 0 0" dur="18s" repeatCount="indefinite"/></g>
+      <g><ellipse cx="920" cy="150" rx="240" ry="150" fill="#ff6fb5" filter="url(#soft)"/>
+        <animateTransform attributeName="transform" type="translate" values="0 0; -50 20; 30 -20; 0 0" dur="22s" repeatCount="indefinite"/></g>
+      <g><ellipse cx="620" cy="240" rx="300" ry="150" fill="#3fd0c9" filter="url(#soft)"/>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 20 -30; -30 20; 0 0" dur="20s" repeatCount="indefinite"/></g>
+    </g>
+
+    <!-- Sparse twinkling stars -->
+    <g fill="#ffffff">
+      <circle cx="140" cy="70" r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.4s" repeatCount="indefinite"/></circle>
+      <circle cx="1050" cy="60" r="1.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.1s" begin="0.6s" repeatCount="indefinite"/></circle>
+      <circle cx="1000" cy="250" r="1.2"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.8s" begin="1.2s" repeatCount="indefinite"/></circle>
+      <circle cx="220" cy="250" r="1.3"><animate attributeName="opacity" values="0.2;1;0.2" dur="4.6s" begin="0.3s" repeatCount="indefinite"/></circle>
+      <circle cx="80" cy="180" r="1.1"><animate attributeName="opacity" values="0.15;0.8;0.15" dur="3.2s" begin="1.6s" repeatCount="indefinite"/></circle>
+      <circle cx="1130" cy="150" r="1.2"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.0s" begin="0.9s" repeatCount="indefinite"/></circle>
+      <circle cx="560" cy="52" r="1.1"><animate attributeName="opacity" values="0.2;0.85;0.2" dur="3.6s" begin="2.0s" repeatCount="indefinite"/></circle>
+      <circle cx="700" cy="285" r="1.2"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.3s" begin="1.4s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- Name -->
+    <text x="600" y="158" text-anchor="middle"
+          font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="300"
+          font-size="66" letter-spacing="2" fill="url(#name)" filter="url(#glow)" opacity="0">
+      Gourav Kumar Bathwal
+      <animate attributeName="opacity" values="0;1" dur="1.4s" fill="freeze"/>
+    </text>
+
+    <!-- Divider -->
+    <rect x="490" y="182" width="220" height="2" rx="1" fill="url(#rule)" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="1.2s" begin="0.6s" fill="freeze"/>
+    </rect>
+
+    <!-- Subtitle -->
+    <text x="600" y="216" text-anchor="middle"
+          font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="400"
+          font-size="16" letter-spacing="6.5" fill="#aeb4d6" opacity="0">
+      SOFTWARE DEVELOPER &#183; UI / UX ENTHUSIAST
+      <animate attributeName="opacity" values="0;0.95" dur="1.2s" begin="0.9s" fill="freeze"/>
+    </text>
+
+    <!-- Tagline -->
+    <text x="600" y="248" text-anchor="middle"
+          font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="500"
+          font-size="14" letter-spacing="3" fill="#7fe6da" opacity="0">
+      Blockchain &#160;&#8226;&#160; Identity &#160;&#8226;&#160; Web3
+      <animate attributeName="opacity" values="0;0.85" dur="1.2s" begin="1.2s" fill="freeze"/>
+    </text>
+
+    <rect x="1" y="1" width="1198" height="318" rx="18" fill="none" stroke="#2a2c52" stroke-width="1.4"/>
+  </g>
+</svg>
