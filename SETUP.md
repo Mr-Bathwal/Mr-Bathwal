@@ -81,7 +81,7 @@ It writes a code-time table between `<!--START_SECTION:waka-->` markers.
 ### 🧩 LeetCode — solved stats card
 No token needed — just your LeetCode username:
 ```md
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Poppins&ext=heatmap&bg=0F1020&title=A78BFA&text=C7CCDB&icon=F472B6" />
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Poppins&ext=heatmap&bg=0F1020&title=A78BFA&text=C7CCDB&icon=60A5FA" />
 ```
 
 ### 📊 Metrics — the "everything" panel (isometric calendar, languages, activity)
@@ -103,7 +103,7 @@ The `3d-contrib.yml` workflow is included. Run it once (Actions tab), then add:
 |---------|------------|----------------------------|
 | Indigo  | `#0F1020`  | every card background      |
 | Violet  | `#A78BFA`  | primary accent / titles    |
-| Rose    | `#F472B6`  | secondary accent / icons   |
+| Blue    | `#60A5FA`  | secondary accent / icons   |
 | Teal    | `#5EEAD4`  | highlights / third accent  |
 | Text    | `#C7CCDB`  | body text                  |
 

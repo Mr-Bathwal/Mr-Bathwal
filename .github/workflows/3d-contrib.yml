@@ -5,9 +5,8 @@ on:
     # Runs daily at 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch: {}   # lets you run it manually from the Actions tab
-  push:
-    branches:
-      - main
+  # NOTE: no "push" trigger on purpose — it would commit regenerated SVGs to main
+  # on every push and create commit churn. Runs on schedule / manual only.
 
 permissions:
   contents: write
