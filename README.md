@@ -22,9 +22,9 @@
 <!-- ✦ SOCIAL + META -->
 <div align="center">
   <a href="mailto:bt23btech11008@iith.ac.in"><img src="https://img.shields.io/badge/Email-60A5FA?style=for-the-badge&logo=gmail&logoColor=0F1020&labelColor=0F1020&color=60A5FA" alt="Email"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=0F1020&labelColor=0F1020&color=A78BFA" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/gourav-kumar-bathwal-16057430a/"><img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=0F1020&labelColor=0F1020&color=A78BFA" alt="LinkedIn"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LeetCode-5EEAD4?style=for-the-badge&logo=leetcode&logoColor=0F1020&labelColor=0F1020&color=5EEAD4" alt="LeetCode"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=0F1020&labelColor=0F1020&color=A78BFA" alt="Portfolio"/></a>
+  <a href="https://portfolio-beta-mauve-dxarcg0dob.vercel.app"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=0F1020&labelColor=0F1020&color=A78BFA" alt="Portfolio"/></a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Mr-Bathwal&label=Profile%20views&color=60A5FA&style=flat-square&labelColor=0F1020" alt="Views"/>
   <img src="https://img.shields.io/github/followers/Mr-Bathwal?label=Followers&style=flat-square&logo=github&color=A78BFA&labelColor=0F1020&logoColor=white" alt="Followers"/>
@@ -181,7 +181,11 @@
 
 | Project | Stack | Description |
 |:--|:--|:--|
-| [⭐ Aurora Ops](https://github.com/Mr-Bathwal/aurora-ops-frontend) | `Next.js` `React` `Three.js` `LLM Agents` | AI console orchestrating LLM agents that diagnose &amp; remediate live servers |
+| [⭐ ProcureFlow](https://github.com/Mr-Bathwal/procureflow) | `Python` `LangGraph` `ERPNext` | Procure-to-pay agent that reads back every write it makes. [48-scenario evaluation, published](https://procureflow-nu-ten.vercel.app) |
+| [⭐ Aurora Ops — console](https://github.com/Mr-Bathwal/aurora-ops-frontend) | `Next.js` `React` `Three.js` | AI console orchestrating LLM agents that diagnose &amp; remediate live servers |
+| [Aurora Ops — agents](https://github.com/Mr-Bathwal/aurora-itops) | `FastAPI` `LangGraph` `Groq` | Three specialist agents, an orchestrator, and a chain that verifies its own work |
+| [SolutionAI Lead Engine](https://github.com/Mr-Bathwal/Solution_ai_lead_engine) | `Python` `Pipelines` | Finds newly registered companies and reaches out with their own deadlines and schemes |
+| [CUTLIST](https://github.com/Mr-Bathwal/Kuku_Assesment) | `Python` `NLP` | Promo cut sheets for microdrama, straight from the screenplay, with an EDL for Premiere |
 
 </div>
 </details>
@@ -209,8 +213,7 @@
 | Project | Stack | Description |
 |:--|:--|:--|
 | [CodeHub](https://github.com/Mr-Bathwal/CodeHub) | `Node` `Express` `MongoDB` | Online judge &amp; compiler, multi-language |
-| [Online Judge (OJ)](https://github.com/Mr-Bathwal/OJ) | `Full-Stack` | Competitive-programming judge engine |
-| [TXodds WC](https://github.com/Mr-Bathwal/TXodds_WC) | `TypeScript` | Sports odds &amp; fixtures data app |
+| [MatchPulse](https://github.com/Mr-Bathwal/TXodds_WC) | `Next.js` `Solana` `R3F` | World Cup companion: picks hashed, signed and anchored on-chain. No wallet, no gas |
 
 </div>
 </details>
@@ -227,7 +230,7 @@
 | [WanderWise](https://github.com/Mr-Bathwal/wanderwise) | `HTML` `JavaScript` | Trip-planning web experience |
 | [Axiom Trade Pulse (clone)](https://github.com/Mr-Bathwal/Axiom-trade-pulse_Clone) | `TypeScript` | Trading-dashboard UI clone |
 | [Therawin — Prototype](https://github.com/Mr-Bathwal/Therawin_prototype_design) | `CSS` | Product prototype &amp; visual design |
-| [Portfolio](https://github.com/Mr-Bathwal/gourav-portfolio) | `HTML` `CSS` | Personal portfolio site |
+| [Portfolio](https://github.com/Mr-Bathwal/portfolio) | `React` `GSAP` `Three.js` | [Seven case studies](https://portfolio-beta-mauve-dxarcg0dob.vercel.app) with scroll-driven motion and WebGL |
 
 </div>
 </details>
@@ -279,7 +282,7 @@
 
 <div align="center">
   <a href="mailto:bt23btech11008@iith.ac.in"><img src="https://img.shields.io/badge/Gmail-60A5FA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F1020" alt="Gmail"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F1020" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/gourav-kumar-bathwal-16057430a/"><img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F1020" alt="LinkedIn"/></a>
   <a href="#"><img src="https://img.shields.io/badge/X-5EEAD4?style=for-the-badge&logo=x&logoColor=white&labelColor=0F1020" alt="X"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Instagram-A78BFA?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0F1020" alt="Instagram"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LeetCode-5EEAD4?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0F1020" alt="LeetCode"/></a>
